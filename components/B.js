@@ -4,7 +4,7 @@ import C from './C';
 
 // defination area
 function B(props) {
-    console.log(props);
+    console.log();
   return (
     <>
     
